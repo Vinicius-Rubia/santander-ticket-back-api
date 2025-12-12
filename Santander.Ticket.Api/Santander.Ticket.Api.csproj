@@ -14,4 +14,9 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Santander.Ticket.Application\Santander.Ticket.Application.csproj" />
+    <ProjectReference Include="..\Santander.Ticket.Infrastructure\Santander.Ticket.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
