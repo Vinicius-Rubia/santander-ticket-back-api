@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Santander.Ticket.Api/Santander.Ticket.Api.csproj" />
+  <Project Path="Santander.Ticket.Application/Santander.Ticket.Application.csproj" />
+  <Project Path="Santander.Ticket.Domain/Santander.Ticket.Domain.csproj" />
+  <Project Path="Santander.Ticket.Infrastructure/Santander.Ticket.Infrastructure.csproj" />
+</Solution>
